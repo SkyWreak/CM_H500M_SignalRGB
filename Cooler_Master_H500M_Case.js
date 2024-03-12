@@ -125,5 +125,5 @@ export function Validate(endpoint) {
 }
 
 export function ImageUrl(){
-	return "https://cdn.coolermaster.com/media/assets/1036/mch500m_g4-zoom.png";
+	return "./mch500m_g4-zoom.png";
 };
