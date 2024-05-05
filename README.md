@@ -1,1 +1,1 @@
-# CM-H500m-signalrgb-plugin
+# CM_H500M_SignalRGB
