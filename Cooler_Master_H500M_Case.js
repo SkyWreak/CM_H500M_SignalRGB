@@ -125,5 +125,5 @@ export function Validate(endpoint) {
 }
 
 export function ImageUrl(){
-	return "./mch500m_g4-zoom.png";
+	return "https://github.com/SkyWreak/CM-H500m-signalrgb-plugin/blob/b588f1ac7d2e6b337e2a43516f3c14fc58c18c2b/mch500m_g4-zoom.png";
 };
